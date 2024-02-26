@@ -28,7 +28,7 @@
 		  <!-- <sis.version>0.8-jdk7-M1</sis.version>-->
 		  <sis.version>2.0-SNAPSHOT</sis.version>
 		  <geoapi.version>4.0-M05</geoapi.version>
-		  <jena.version>4.2.0</jena.version>
+		  <jena.version>4.7.0</jena.version>
         <mvn-compiler-plugin.version>3.8.0</mvn-compiler-plugin.version>
         <maven-dependency-plugin.version>3.1.1</maven-dependency-plugin.version>
         <maven-war-plugin.version>3.2.2</maven-war-plugin.version>
@@ -37,7 +37,7 @@
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <javax.ws.rs-api.version>2.1</javax.ws.rs-api.version>
         <jersey.version>2.31</jersey.version>
-        <swagger.version>2.1.5</swagger.version>
+        <swagger.version>2.2.11</swagger.version>
         <swagger-ui.version>3.34.0</swagger-ui.version>
         <!-- end Code -->
 		  <maven.compiler.source>11</maven.compiler.source>
@@ -59,7 +59,7 @@
 <dependency>
    <groupId>com.siemens.ct.exi</groupId>
    <artifactId>exificient</artifactId>
-   <version>1.0.4</version>
+   <version>1.0.7</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/com.google.openlocationcode/openlocationcode -->
 <dependency>
@@ -131,12 +131,12 @@
 <dependency>
     <groupId>org.rdfhdt</groupId>
     <artifactId>hdt-java-core</artifactId>
-    <version>1.1</version>
+    <version>2.1.2</version>
 </dependency>
 <dependency>
     <groupId>mil.nga.geopackage</groupId>
     <artifactId>geopackage</artifactId>
-    <version>4.0.0</version>
+    <version>6.6.2</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-compress -->
 <dependency>
@@ -153,7 +153,7 @@
 <dependency>
         <groupId>de.undercouch</groupId>
         <artifactId>bson4jackson</artifactId>
-        <version>2.11.0</version>
+        <version>2.15.0</version>
     </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
 <dependency>
@@ -203,7 +203,7 @@
 <dependency>
     <groupId>org.wololo</groupId>
     <artifactId>jts2geojson</artifactId>
-    <version>0.14.2</version>
+    <version>0.18.1</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.glassfish.jaxb/txw2 -->
 <dependency>
@@ -221,17 +221,17 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.31</version>
+    <version>2.34</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.containers</groupId>
     <artifactId>jersey-container-servlet</artifactId>
-    <version>2.31</version>
+    <version>2.34</version>
 </dependency>
 <dependency>
 <groupId>org.glassfish.jersey.inject</groupId>
 <artifactId>jersey-hk2</artifactId>
-    <version>2.31</version>
+    <version>2.34</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
 <dependency>
