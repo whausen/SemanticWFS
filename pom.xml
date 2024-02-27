@@ -37,7 +37,7 @@
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <javax.ws.rs-api.version>2.1</javax.ws.rs-api.version>
         <jersey.version>2.31</jersey.version>
-        <swagger.version>2.2.11</swagger.version>
+        <swagger.version>2.2.20</swagger.version>
         <swagger-ui.version>3.34.0</swagger-ui.version>
         <!-- end Code -->
 		  <maven.compiler.source>11</maven.compiler.source>
