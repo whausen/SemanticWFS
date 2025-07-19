@@ -28,7 +28,7 @@
 		  <!-- <sis.version>0.8-jdk7-M1</sis.version>-->
 		  <sis.version>2.0-SNAPSHOT</sis.version>
 		  <geoapi.version>4.0-M05</geoapi.version>
-		  <jena.version>4.7.0</jena.version>
+		  <jena.version>5.5.0</jena.version>
         <mvn-compiler-plugin.version>3.8.0</mvn-compiler-plugin.version>
         <maven-dependency-plugin.version>3.1.1</maven-dependency-plugin.version>
         <maven-war-plugin.version>3.2.2</maven-war-plugin.version>
@@ -37,7 +37,7 @@
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <javax.ws.rs-api.version>2.1</javax.ws.rs-api.version>
         <jersey.version>2.31</jersey.version>
-        <swagger.version>2.2.11</swagger.version>
+        <swagger.version>2.2.14</swagger.version>
         <swagger-ui.version>3.34.0</swagger-ui.version>
         <!-- end Code -->
 		  <maven.compiler.source>11</maven.compiler.source>
